@@ -11,6 +11,6 @@ Please do not report here the issues of xpdf; please report them here
 
 https://forum.xpdfreader.com/
 
-Please report here as an issue if the mirror is not in step with the actual code.
+Please report here as an issue only if the latest version is not in step with what is here.
 
 See README for actual readme of xpdf
