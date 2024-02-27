@@ -1,4 +1,4 @@
-xpdfreader-mirror
+xpdf-mirror
 =
 
 This is a mirror of xpdf code. (Not whole xpdfreader, only the open source xpdf part.)
